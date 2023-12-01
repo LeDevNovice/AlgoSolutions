@@ -1,3 +1,5 @@
+// RIGHT SOLUTIN NOT FOUND
+
 const { promises: fsPromises } = require('fs');
 
 const numberMapping = {
