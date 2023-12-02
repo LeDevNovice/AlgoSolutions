@@ -1,4 +1,4 @@
-// RIGHT SOLUTIN NOT FOUND
+// RIGHT SOLUTION NOT FOUND
 
 const { promises: fsPromises } = require('fs');
 
